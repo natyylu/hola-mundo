@@ -16,3 +16,4 @@ finalizando con github
 modifico listas 
 para realiza mi ultima modificacion
 una linea más
+GIT PULL 
