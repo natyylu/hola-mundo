@@ -10,7 +10,6 @@ i love :icecream:, :pizza:, :dog:
 
 mi ultima linea en mi repositorio
 
-nueva actividad
 
 finalizando con github
 modifico listas 
