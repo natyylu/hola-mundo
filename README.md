@@ -11,7 +11,7 @@ sol
 mi ultima linea en mi repositorio
 
 
-finalizando con github
+
 modifico listas 
 para realiza mi ultima modificacion
 
